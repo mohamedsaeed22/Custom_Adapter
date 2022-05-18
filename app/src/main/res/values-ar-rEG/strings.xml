@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_following">المتابعين</string>
+    <string name="tv_posts">المنشورات</string>
+    <string name="tv_followers">المتابعون</string>
+    <string name="btn_follow">متابعه</string>
+    <string name="btn_like">اعجاب</string>
+    <string name="btn_comment">تعليق</string>
+    <string name="btn_share">مشاركه</string>
+</resources>

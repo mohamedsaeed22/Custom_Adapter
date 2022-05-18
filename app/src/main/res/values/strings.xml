@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adapter</string>
+    <string name="tv_following">Following</string>
+    <string name="tv_posts">Posts</string>
+    <string name="tv_followers">Followers</string>
+    <string name="btn_follow">Follow</string>
+    <string name="btn_like">Like</string>
+    <string name="btn_comment">Comment</string>
+    <string name="btn_share">Share</string>
+</resources>
